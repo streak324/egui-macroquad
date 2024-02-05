@@ -1,0 +1,6 @@
+[submodule "egui-miniquad"]
+	path = egui-miniquad
+	url = ssh://git@github.com/streak324/egui-miniquad.git
+[submodule "macroquad"]
+	path = macroquad
+	url = ssh://git@github.com/streak324/macroquad.git
